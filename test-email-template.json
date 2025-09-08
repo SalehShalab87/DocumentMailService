@@ -1,0 +1,25 @@
+{
+  "to": ["shalab.saleh@outlook.com"],
+  "cc": ["m.hamoush@manteq-me.com","h.esper@manteq-me.com"],
+  "bcc": null,
+  "subject": "Welcome to Your Insurance Policy - Email Test",
+  "templateId": "4aa57d78-454e-4a57-b4ca-530305c950e8",
+  "templateValues": {
+    "ICS_CustomerName": "John Doe",
+    "ICS_PolicyNumber": "POL-2025-EMAIL-001",
+    "ICS_PolicyStartDate": "September 8, 2025",
+    "ICS_PolicyEndDate": "September 8, 2026",
+    "ICS_SupportEmail": "support@insurancecompany.com",
+    "ICS_SupportPhone": "+1 (555) 123-4567",
+    "ICS_Signature": "Best regards,\nInsurance Customer Service Team\nYour Insurance Company"
+  },
+  "bodyContent": "Welcome to your new insurance policy! This email contains your policy information and contact details for support.",
+  "exportFormat": 3,
+  "attachments": [
+    {
+        "fileName": "MAF.pdf",
+        "filePath": "C:\\Users\\shala\\Desktop\\Saleh-Manteq\\DocumentAutomationDemo\\Output\\working_main_20250908_114742.pdf",
+        "contentType": "application/pdf"
+    }
+  ]
+}

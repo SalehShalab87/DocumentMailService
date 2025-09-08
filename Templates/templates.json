@@ -1,0 +1,58 @@
+[
+  {
+    "Id": "4436c20e-8bbe-41a6-bba6-dfa67eab08b7",
+    "Name": "main test",
+    "FilePath": "C:\\Users\\shala\\Desktop\\Saleh-Manteq\\DocumentAutomationDemo\\Templates\\4436c20e-8bbe-41a6-bba6-dfa67eab08b7.docx",
+    "CreatedDate": "2025-09-08T11:00:40.3833063+03:00",
+    "Placeholders": [
+      "ICS_CustomerName",
+      "ICS_QuotationNumber",
+      "ICS_PolicyNumber",
+      "ICS_PolicyStartDate",
+      "ICS_PolicyEndDate",
+      "ICS_Benefit1_Name",
+      "ICS_Benefit1_Coverage",
+      "ICS_Benefit1_Limit",
+      "ICS_Benefit2_Name",
+      "ICS_Benefit2_Coverage",
+      "ICS_Benefit2_Limit",
+      "ICS_Term1",
+      "ICS_Term2",
+      "ICS_Term3"
+    ],
+    "DocumentType": 0
+  },
+  {
+    "Id": "3b24b531-397d-4b0d-a6f0-72924ecf827b",
+    "Name": "embed test",
+    "FilePath": "C:\\Users\\shala\\Desktop\\Saleh-Manteq\\DocumentAutomationDemo\\Templates\\3b24b531-397d-4b0d-a6f0-72924ecf827b.docx",
+    "CreatedDate": "2025-09-08T11:01:03.9902856+03:00",
+    "Placeholders": [
+      "ICS_Term4",
+      "ICS_Term5",
+      "ICS_Benefit3_Name",
+      "ICS_Benefit3_Coverag",
+      "ICS_Benefit3_Limit",
+      "ICS_Benefit4_Coverage",
+      "ICS_Benefit4_Name",
+      "ICS_Benefit4_Limit"
+    ],
+    "DocumentType": 0
+  },
+  {
+    "Id": "4aa57d78-454e-4a57-b4ca-530305c950e8",
+    "Name": "email test",
+    "FilePath": "C:\\Users\\shala\\Desktop\\Saleh-Manteq\\DocumentAutomationDemo\\Templates\\4aa57d78-454e-4a57-b4ca-530305c950e8.docx",
+    "CreatedDate": "2025-09-08T18:37:35.8227901+03:00",
+    "Placeholders": [
+      "ICS_CustomerName",
+      "ICS_PolicyNumber",
+      "ICS_PolicyStartDate",
+      "ICS_PolicyEndDate",
+      "ICS_SupportEmail",
+      "ICS_SupportPhone",
+      "ICS_Signature"
+    ],
+    "DocumentType": 0
+  }
+]

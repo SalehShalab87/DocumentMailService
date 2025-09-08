@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentMailService", "DocumentMailService.csproj", "{BB8D82FD-7A4E-E202-52BC-F5E6FCB6111D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB8D82FD-7A4E-E202-52BC-F5E6FCB6111D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8D82FD-7A4E-E202-52BC-F5E6FCB6111D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8D82FD-7A4E-E202-52BC-F5E6FCB6111D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8D82FD-7A4E-E202-52BC-F5E6FCB6111D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B7E381A-15EE-4DBB-8A48-BA7BAC86BF2B}
+	EndGlobalSection
+EndGlobal

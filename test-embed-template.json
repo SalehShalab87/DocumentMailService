@@ -1,0 +1,18 @@
+{
+  "to": ["customer@example.com"],
+  "cc": ["benefits@company.com"],
+  "subject": "Additional Insurance Benefits - Embed Test",
+  "templateId": "3b24b531-397d-4b0d-a6f0-72924ecf827b",
+  "templateValues": {
+    "ICS_Term4": "Emergency services are available 24/7",
+    "ICS_Term5": "Pre-authorization required for specialist visits",
+    "ICS_Benefit3_Name": "Vision Coverage",
+    "ICS_Benefit3_Coverag": "Eye exams, glasses, and contact lenses",
+    "ICS_Benefit3_Limit": "$2,000 annually",
+    "ICS_Benefit4_Coverage": "Mental health counseling and therapy",
+    "ICS_Benefit4_Name": "Mental Health Coverage",
+    "ICS_Benefit4_Limit": "$10,000 annually"
+  },
+  "bodyContent": "Dear Valued Customer,\n\nThis document outlines your additional insurance benefits and coverage details. Please review the terms and limits carefully.\n\nFor any clarifications, contact our support team.\n\nSincerely,\nBenefits Department",
+  "exportFormat": "Docx"
+}

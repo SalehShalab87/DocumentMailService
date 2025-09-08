@@ -1,0 +1,26 @@
+{
+  "to": ["shalab.saleh@outlook.com"],
+  "cc": ["m.hamoush@manteq-me.com", "h.esper@manteq-me.com"],
+  "bcc": null,
+  "subject": "Your Insurance Policy Documentation - Main Test",
+  "templateId": "4436c20e-8bbe-41a6-bba6-dfa67eab08b7",
+  "templateValues": {
+    "ICS_CustomerName": "John Doe",
+    "ICS_QuotationNumber": "Q-2025-001234",
+    "ICS_PolicyNumber": "POL-2025-567890",
+    "ICS_PolicyStartDate": "2025-09-08",
+    "ICS_PolicyEndDate": "2026-09-08",
+    "ICS_Benefit1_Name": "Medical Coverage",
+    "ICS_Benefit1_Coverage": "Comprehensive Medical Insurance",
+    "ICS_Benefit1_Limit": "$500,000",
+    "ICS_Benefit2_Name": "Dental Coverage",
+    "ICS_Benefit2_Coverage": "Full Dental Care",
+    "ICS_Benefit2_Limit": "$50,000",
+    "ICS_Term1": "Coverage is valid for 12 months from start date",
+    "ICS_Term2": "Premium payments are due monthly",
+    "ICS_Term3": "Claims must be submitted within 30 days"
+  },
+  "bodyContent": "Dear John Doe,\n\nPlease find your insurance policy documentation attached. This document contains all the details of your coverage including benefits, limits, and terms.\n\nIf you have any questions, please don't hesitate to contact us.\n\nBest regards,\nInsurance Team",
+  "exportFormat": 4,
+  "attachments": []
+}
